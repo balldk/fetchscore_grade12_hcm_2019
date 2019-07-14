@@ -1,0 +1,24 @@
+{
+    "name": "fetchscore_grade12_hcm_2019",
+    "version": "1.0.0",
+    "description": "A script to fetch all scores from \"International Competition 2019\"",
+    "main": "fetchScore.js",
+    "scripts": {
+        "start": "node fetchScore.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/stickmeo/fetchscore_grade12_hcm_2019.git"
+    },
+    "author": "Stickmeo",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/stickmeo/fetchscore_grade12_hcm_2019/issues"
+    },
+    "homepage": "https://github.com/stickmeo/fetchscore_grade12_hcm_2019#readme",
+    "dependencies": {
+        "axios": "^0.19.0",
+        "cli-progress": "^2.1.1",
+        "throat": "^5.0.0"
+    }
+}

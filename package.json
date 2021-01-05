@@ -17,7 +17,7 @@
     },
     "homepage": "https://github.com/stickmeo/fetchscore_grade12_hcm_2019#readme",
     "dependencies": {
-        "axios": "^0.19.0",
+        "axios": "^0.21.1",
         "cli-progress": "^2.1.1",
         "throat": "^5.0.0"
     }
